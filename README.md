@@ -12,6 +12,12 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 price of each home.
 
+
+
+
+
+
+
 Practice Skills
 
 Creative feature engineering 
