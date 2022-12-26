@@ -16,24 +16,43 @@ Data fields
 Here's a brief version of what you'll find in the data description file.
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
-MSSubClass: The building class
+
+MSSubClass: The building 
+
 MSZoning: The general zoning classification
+
 LotFrontage: Linear feet of street connected to property
+
 LotArea: Lot size in square feet
+
 Street: Type of road access
+
 Alley: Type of alley access
+
 LotShape: General shape of property
+
 LandContour: Flatness of the property
+
 Utilities: Type of utilities available
+
 LotConfig: Lot configuration
+
 LandSlope: Slope of property
+
 Neighborhood: Physical locations within Ames city limits
+
 Condition1: Proximity to main road or railroad
+
 Condition2: Proximity to main road or railroad (if a second is present)
+
 BldgType: Type of dwelling
+
 HouseStyle: Style of dwelling
+
 OverallQual: Overall material and finish quality
+
 OverallCond: Overall condition rating
+
 YearBuilt: Original construction date
 YearRemodAdd: Remodel date
 RoofStyle: Type of roof
@@ -91,7 +110,12 @@ PoolQC: Pool quality
 Fence: Fence quality
 MiscFeature: Miscellaneous feature not covered in other categories
 MiscVal: $Value of miscellaneous feature
+
 MoSold: Month Sold
+
 YrSold: Year Sold
+
 SaleType: Type of sale
+
 SaleCondition: Condition of sale
+
